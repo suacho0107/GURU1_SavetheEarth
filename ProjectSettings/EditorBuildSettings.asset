@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/00.Scenes/GeneralShooting.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/10.BossScenes/Scenes/BossScene.unity
+    guid: dcbb32a0ce48b5e41836cd27fbc005ed
+  - enabled: 1
+    path: Assets/10.BossScenes/Scenes/ClearScene_test.unity
+    guid: e3f7b814587ac9a49871c730f805a49e
+  - enabled: 1
+    path: Assets/10.BossScenes/Scenes/DefeatScene_test.unity
+    guid: f4e5bf26cecd8f941a1572abccf5e0a2
+  - enabled: 1
+    path: Assets/20.StoyScenes/Scenes/ClearScene.unity
+    guid: fbadc3935c4741245916f23ca1a3bb1f
+  - enabled: 1
+    path: Assets/20.StoyScenes/Scenes/DefeatScene.unity
+    guid: 911181d9f7234eb4c97f6308faf9ec32
+  - enabled: 1
+    path: Assets/20.StoyScenes/Scenes/StartScene.unity
+    guid: dede7b2515f0d1f4aa697075da773160
+  - enabled: 1
+    path: Assets/20.StoyScenes/Scenes/StoryScene.unity
+    guid: 235865643833e0046a580a0708ba11ad
+  m_configObjects: {}
